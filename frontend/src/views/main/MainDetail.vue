@@ -52,7 +52,7 @@
 
       <div
         class="card m-3 row"
-        style="max-width: 100%; height: 410px"
+        style="max-width: 100%; height: 420px"
         v-for="news in searchedData"
         :key="news.news_seq"
       >
@@ -63,7 +63,7 @@
                 v-if="news.news_photo !== ''"
                 class="card-img-top"
                 v-bind:src="news.news_photo"
-                style="object-fit: cover"
+                style="height: 220px"
                 alt="Card image"
                 @error="replaceDefault"
               />
@@ -71,15 +71,15 @@
                 v-else
                 src="../../../src/assets/shin_logo.png"
                 class="card-img-top"
-                style="object-fit: cover"
+                style="height: 220px"
                 @error="replaceDefault"
               />
             </div>
             <div class="card-title">
               <h2>
                 {{
-                  news.news_Title.length > 33
-                    ? news.news_Title.substring(0, 33) + "..."
+                  news.news_Title.length > 28
+                    ? news.news_Title.substring(0, 28) + "..."
                     : news.news_Title
                 }}
                 <hr />
@@ -504,6 +504,7 @@ div.card .card__image-holder {
   height: 0;
   padding-bottom: 75%;
   max-width: 300px;
+  height: 220px;
   /* height: 150px;   */
 }
 

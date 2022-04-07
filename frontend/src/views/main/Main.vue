@@ -153,7 +153,7 @@
                           class="card-img main-card-img"
                           v-if="item.news_photo == ''"
                           style="object-fit: contain"
-                          src="../../../public/img/no_image.jpg"
+                          src="../../../src/assets/shin_logo.png"
                         />
                         <img
                           class="card-img main-card-img"
@@ -321,24 +321,22 @@ export default {
     console.log(this.$store.userSeq);
     console.log("===================");
 
-    if(this.$store.userSeq!=null && this.$store.userSeq!="") {
+    if (this.$store.userSeq != null && this.$store.userSeq != "") {
       this.getRecommendArticle(this.$store.userSeq);
     }
-    
-
   },
   methods: {
     getRecommendArticle(userSeq) {
-       axios
+      axios
         .get(`${SERVER_HOST}/recom/keyword`, {
           params: {
             userSeq: userSeq,
           },
         })
-        .then((res)=>{
+        .then((res) => {
           //유저 추천 기사 응답 성공
-            console.log("추천기사 DATA");
-            console.log(res.data);
+          console.log("추천기사 DATA");
+          console.log(res.data);
         })
         .catch((err) => {
           console.log("에러");
