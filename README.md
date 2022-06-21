@@ -49,22 +49,22 @@
 <table>
   <tr height="100px">
     <td align="center" width="15%">
-      <img src="![임재현](https://user-images.githubusercontent.com/64720923/174755092-0af3d0b1-063d-43c2-86fa-52e9fc25eb98.jpg)"/></a>
+      <img src="https://user-images.githubusercontent.com/64720923/174756182-541a767f-6209-4036-b821-70e64ce77133.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="![김하영](https://user-images.githubusercontent.com/64720923/174755351-09b3e436-1126-4b5e-917d-1ca170c68bf6.jpg)"/></a>
+      <img src="https://user-images.githubusercontent.com/64720923/174755351-09b3e436-1126-4b5e-917d-1ca170c68bf6.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/6a03fcf074f519531b443703b6622e00/배용한.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/64720923/174756391-4c54759e-4abc-4dd2-a04c-f6cf1e8cba47.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/50b904954fb5a9e184e3e985f363993c/손수연.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/64720923/174756473-fd3bd823-0f21-4ab3-a797-4fcad9ba4cf9.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/d25860b0128eace18acaa0dd757a6019/유민상.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/64720923/174756558-0543adeb-34e8-4626-8499-61e62155370d.jpg"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/ceb7f0aea9925d8c04b533221cdb87a6/허은아.jpg"/></a>
+      <img src="https://user-images.githubusercontent.com/64720923/174756655-7d191650-eb7c-44f0-bc86-a796a6768a46.jpg"/></a>
     </td>
   </tr>
   <tr height="70px">
@@ -135,7 +135,7 @@
 <br/>
 
 ### 🚩 시스템 구성도
-![SYSTEM.png](/uploads/ce1c94c34d8b2e43e4e63e2e99367ce8/시스템_구성도.png)
+![구성도](https://user-images.githubusercontent.com/64720923/174756973-ae7a3596-9410-4cf7-b37a-7952408356be.png)
 <br/><br/>
 
 ### 🎫 ERD 
@@ -150,7 +150,7 @@
   * 워드클라우드를 저장한 news_wordcloud 테이블
   * 사용자의 뉴스 스크랩을 저장한 scrap 테이블
 
-![ERD_TABEL.png](/uploads/b60ea236f1ddff43569d7cf59dd6bf93/ERD.png)
+![ERD](https://user-images.githubusercontent.com/64720923/174757059-ba92642c-a522-4bf6-a5c8-2c93f1d0b5ec.png)
 <br/><br/>
 
 ### 🥊 프로젝트 차별점/독창성 (기술관점)  
