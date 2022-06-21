@@ -49,10 +49,10 @@
 <table>
   <tr height="100px">
     <td align="center" width="15%">
-      <img src="/uploads/9f8342fb55906d0acf5becd196bcd815/임재현.jpg"/></a>
+      <img src="![임재현](https://user-images.githubusercontent.com/64720923/174755092-0af3d0b1-063d-43c2-86fa-52e9fc25eb98.jpg)"/></a>
     </td>
     <td align="center" width="15%">
-      <img src="/uploads/040dbaa665fa16ff2d331ff81138e550/김하영.jpg"/></a>
+      <img src="![김하영](https://user-images.githubusercontent.com/64720923/174755351-09b3e436-1126-4b5e-917d-1ca170c68bf6.jpg)"/></a>
     </td>
     <td align="center" width="15%">
       <img src="/uploads/6a03fcf074f519531b443703b6622e00/배용한.jpg"/></a>
